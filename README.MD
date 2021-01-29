@@ -1,0 +1,1 @@
+Express js Mongo Db Mongoose js , JsonWebToken , Next js , Sass, Css Modules, SSR, Skeleton , Redux, Redux thunk , react-toast-notifications
